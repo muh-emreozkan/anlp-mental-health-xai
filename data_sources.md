@@ -4,6 +4,7 @@
 - **Source:** Twitter mental health dataset
 - **Original paper:** DEPTWEET: A Typology for Social Media Texts to Detect Depression Severities
 - **Access:** Rehydration required (tweet IDs only)
+- **Link** https://github.com/mohsinulkabir14/DEPTWEET
 - **Size:** 5,474 tweets (after augmentation)
 - **Classes:** mild, moderate, severe, non-depressed
 
