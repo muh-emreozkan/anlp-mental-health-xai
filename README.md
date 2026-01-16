@@ -42,7 +42,10 @@ This project investigates explainable AI for depression severity and suicide ris
 
 ![Results Comparison](assets/results_comparison.png)
 *Figure 2: Model performance across three tasks*
+
 ---
+
+
 
 ## 🏆 Key Results
 
