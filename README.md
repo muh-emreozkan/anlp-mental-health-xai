@@ -252,29 +252,10 @@ Special thanks to:
 
 ---
 
-## 📚 Citation
-
-If you use this work in your research, please cite:
-```bibtex
-@misc{ozkan2026xai_mental_health,
-  author = {Özkan, Muhammet Emre},
-  title = {Explainable AI for Mental Health Text Classification},
-  year = {2026},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/muh-emreozkan/anlp-mental-health-xai}},
-  note = {Final Project, COMP561 - Advanced NLP, Işık University}
-}
-```
-
----
-
 ## 📧 Contact
 
 **Muhammet Emre Özkan**  
-Department of Computer Engineering, Işık University  
-📧 [Your email]  
-🔗 [LinkedIn](your_linkedin)
+📧 emre.ozkan@isikun.edu.tr
 
 ---
 
