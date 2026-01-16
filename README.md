@@ -242,7 +242,7 @@ Binary suicide detection (98.9%) far exceeds multi-class severity (77.4%), revea
 This project was completed as part of COMP561 - Advanced Natural Language Processing at Işık University.
 
 **Instructor:** Dr. Mehmet Can Yavuz  
-**Institution:** Işık University, Department of Computer Engineering  
+**Institution:** Işık University
 **Date:** January 2026
 
 Special thanks to:
