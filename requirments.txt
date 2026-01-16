@@ -1,0 +1,25 @@
+# Core ML/DL
+torch==2.1.0+cu118
+transformers==4.36.0
+datasets==2.16.1
+
+# Traditional ML
+scikit-learn==1.3.2
+pandas==2.1.4
+numpy==1.26.4
+
+# XAI
+shap==0.44.0
+lime==0.2.0.1
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilities
+tqdm==4.66.1
+ipywidgets==8.1.1
+
+# Optional (for advanced features)
+# bertviz==1.4.0
+# captum==0.7.0
