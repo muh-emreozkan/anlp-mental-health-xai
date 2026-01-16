@@ -37,8 +37,11 @@ This project investigates explainable AI for depression severity and suicide ris
 - +21% improvement through domain adaptation (C-SSRS)
 - Convergent validation of linguistic biomarkers across 3 XAI techniques
 
-![Results Comparison](assets/results_comparison.png)
+![Architecture](assets/architecture.png)
+*Figure 1: End-to-end pipeline from data preprocessing to explainable predictions*
 
+![Results Comparison](assets/results_comparison.png)
+*Figure 2: Model performance across three tasks*
 ---
 
 ## 🏆 Key Results
